@@ -142,5 +142,14 @@ After playing with several static site generators listed at StaticGen, I am now 
 When I&amp;rsquo;m not working on illustration projects, I do other stuff like layout designs for web and prints, blog writing, and English to Indonesian translation/localization.</description>
     </item>
     
+    <item>
+      <title>Thank You</title>
+      <link>http://monochromefrog.github.io/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://monochromefrog.github.io/thanks/</guid>
+      <description>Your message has been received. I will get back to you soon.</description>
+    </item>
+    
   </channel>
 </rss>
