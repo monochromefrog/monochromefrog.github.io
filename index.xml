@@ -6,10 +6,19 @@
     <description>Recent content on monochromefrog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Feb 2018 14:27:45 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 09 Jun 2018 15:28:00 +0700</lastBuildDate>
     
 	<atom:link href="http://monochromefrog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hadouken Baseball Club</title>
+      <link>http://monochromefrog.github.io/blog/hadouken-baseball-club/</link>
+      <pubDate>Sat, 09 Jun 2018 15:28:00 +0700</pubDate>
+      
+      <guid>http://monochromefrog.github.io/blog/hadouken-baseball-club/</guid>
+      <description>New stuff released on my Teepublic store. Available as apparel, home decors, and gadget cases. Check it out!</description>
+    </item>
     
     <item>
       <title>Hugo To The Rescue</title>

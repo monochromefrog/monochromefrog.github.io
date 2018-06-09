@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://monochromefrog.github.io/blog/hadouken-baseball-club/</loc>
+    <lastmod>2018-06-09T15:28:00+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://monochromefrog.github.io/blog/hugo-to-the-rescue/</loc>
     <lastmod>2018-02-14T14:27:45+07:00</lastmod>
   </url>
@@ -64,7 +69,7 @@
   
   <url>
     <loc>http://monochromefrog.github.io/blog/</loc>
-    <lastmod>2018-02-14T14:27:45+07:00</lastmod>
+    <lastmod>2018-06-09T15:28:00+07:00</lastmod>
   </url>
   
   <url>
@@ -92,6 +97,12 @@
   </url>
   
   <url>
+    <loc>http://monochromefrog.github.io/tags/t-shirt/</loc>
+    <lastmod>2018-06-09T15:28:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://monochromefrog.github.io/tags/</loc>
     <lastmod>2018-02-14T14:27:45+07:00</lastmod>
     <priority>0</priority>
@@ -108,8 +119,14 @@
   </url>
   
   <url>
+    <loc>http://monochromefrog.github.io/categories/updates/</loc>
+    <lastmod>2018-06-09T15:28:00+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://monochromefrog.github.io/</loc>
-    <lastmod>2018-02-14T14:27:45+07:00</lastmod>
+    <lastmod>2018-06-09T15:28:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
