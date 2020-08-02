@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "af3cb539c1e460359c5d1a972df1ae53"
+        "md5": "0f52a90cbd6591712f1a8d253f3c2e42"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "c042a578b64f2fbc838aa45f6e06f34f"
+        "md5": "403122b333b1dc766ac12033b7f6dfce"
     },
     {
         "path": "artwork-for-sale",
@@ -17,7 +17,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "48bcbb96b2a874193fdc60b518314f1a"
+        "md5": "a06fbd8b3e883c8e519cd091c217a343"
     },
     {
         "path": "assets",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "72964b6e9670febfddd992fdbe81ccde"
+        "md5": "4889d202664b881663621e29d71dc98d"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -137,17 +137,17 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "64647c19faf96db710c23eec3e319d81"
+        "md5": "893b6520d8f26f704a55721a498bcfa0"
     },
     {
         "path": "basesix-font-creation-process.html",
         "type": "file",
-        "md5": "e47624784e00414ab88e702e7038cbe8"
+        "md5": "5ad55fe1eeb90fb5a871b02ea2137fd7"
     },
     {
         "path": "basesix-free-font.html",
         "type": "file",
-        "md5": "c9267a5a186669d80eb76e5b81ad04f6"
+        "md5": "885a9e2109479f65620227cbdc452a3d"
     },
     {
         "path": "blog",
@@ -157,37 +157,37 @@
     {
         "path": "/blog/index.html",
         "type": "file",
-        "md5": "e8294634a4aaa1f07c2d2b55c53af1b1"
+        "md5": "a0cda263b4c647871fd379a087ecfb45"
     },
     {
         "path": "contact.html",
         "type": "file",
-        "md5": "259be81d085088e3e4ee3bce5c8a110f"
+        "md5": "603a63b974f67cf5838e5bb789c604f7"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b2539c175d6740d0875221bef3a8ca2a"
+        "md5": "4a5e091ad3d7b1c7fc1728b3a17860c3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "1d5c450b3bd43511f0f8e01cdd43b25d"
+        "md5": "9ecd8ba7de059445e9cfdc3525e84c53"
     },
     {
         "path": "hawk-rawk.html",
         "type": "file",
-        "md5": "8c8069a64ae2f97bc4ad3c20201d6eeb"
+        "md5": "2bd3e8e598bc63a1eecb89c95d85d56b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "58a02b681fe8331e5e1270f93d05dd95"
+        "md5": "dd44a4bdcf78b7c6c9c65264bcb72f32"
     },
     {
         "path": "kerberos.html",
         "type": "file",
-        "md5": "1c0ae0e1d48ef18fee96bce81029b0b8"
+        "md5": "b828c4caeaf56a5d06bbd129af4f7c0b"
     },
     {
         "path": "media",
@@ -1017,7 +1017,7 @@
     {
         "path": "nadie-es-el-mismo-album-cover.html",
         "type": "file",
-        "md5": "15c7e1b3ec73b34133d0c726a157e6d4"
+        "md5": "8413287689c1e88802ced3d693b14149"
     },
     {
         "path": "page",
@@ -1032,27 +1032,27 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "4318d0b8a556a99beaa8e42e92766c0a"
+        "md5": "75b5923c7a118741e05ff9ddbb460b9e"
     },
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "9a0360f28ca7a91e35d315e23b6a95bf"
+        "md5": "6df55c3a47c873483b3c7e63ad0f1552"
     },
     {
         "path": "rainbows-on-demand-tour-poster.html",
         "type": "file",
-        "md5": "28f10e3c2be14882acf3f1c392787149"
+        "md5": "c8b0735b06771d644f0815134031917d"
     },
     {
         "path": "samurai-skull-free-stock-vector-illustration.html",
         "type": "file",
-        "md5": "a4abbb292549f6779689685f01c0376d"
+        "md5": "655f11edcfe400085c7dc7fbd36dc0f1"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "ca5a9be2092901a59761d4208536bd07"
+        "md5": "5fffefc4dd6551de7a9c8a8a271294db"
     },
     {
         "path": "sitemap.xml",
@@ -1072,22 +1072,22 @@
     {
         "path": "/stock-graphic/index.html",
         "type": "file",
-        "md5": "3cf1381b3f4fa6c7af3d533fc7c25f33"
+        "md5": "2785027cce9cbab56b8634a8674e3df2"
     },
     {
         "path": "the-great-crazy-80-show-tour-poster.html",
         "type": "file",
-        "md5": "83e45b707bd349c80cdc41edb7fb12e5"
+        "md5": "1e8c5c1e397d20704188e8e4efe061c2"
     },
     {
         "path": "tiger-and-the-roses.html",
         "type": "file",
-        "md5": "fea242c1af49ab7bd46b4e923ed0a8fd"
+        "md5": "bcac6101431c942f77c6c11ebeb987a6"
     },
     {
         "path": "transmitting-straight-from-the-buttnoggin-poster.html",
         "type": "file",
-        "md5": "e5f24e47f80ba7d5dc3b93358e1bf02b"
+        "md5": "f9c39928a5d43bb5c7bf851018a348e9"
     },
     {
         "path": "typeface",
@@ -1097,6 +1097,6 @@
     {
         "path": "/typeface/index.html",
         "type": "file",
-        "md5": "7c19ff3eb4c01bb45ab787a058649481"
+        "md5": "b949cfab02f27fd797568551930ef2e4"
     }
 ]
