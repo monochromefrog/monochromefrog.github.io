@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: monochromefrog.github.io
+Token: 066d9a5eb367f19666f1b6107dc10d9f1cb91ecca2d703ceaf99b8da373e40b3

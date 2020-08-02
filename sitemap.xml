@@ -1,93 +1,142 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/that1guy-transmitting-straight-from-the-buttnoggin-tour-poster/</loc>
-    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/that1guy-rainbows-on-demand-tour-poster/</loc>
-    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/automatico-nadie-es-el-mismo-album-cover-illustration/</loc>
-    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/ray-of-victory-wolfmother-postcard/</loc>
-    <lastmod>2016-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/that1guy-the-great-crazy-80-show-tour-poster/</loc>
-    <lastmod>2015-09-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/legend-of-the-guardians-poster-fan-art/</loc>
-    <lastmod>2014-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/heima-film-poster-fan-art/</loc>
-    <lastmod>2014-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/still-too-far/</loc>
-    <lastmod>2014-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/take-care-take-care/</loc>
-    <lastmod>2014-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/gentle-man/</loc>
-    <lastmod>2014-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/swift-migration/</loc>
-    <lastmod>2014-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/portfolio/</loc>
-    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/thanks/</loc>
-  </url>
-  
-  <url>
-    <loc>http://monochromefrog.github.io/</loc>
-    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://monochromefrog.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://monochromefrog.github.io/</loc>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/basesix-font-creation-process.html</loc>
+<lastmod>2020-08-01T11:58:36+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/basesixcreation.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/base_shape.jpg</image:loc>
+<image:title><![CDATA[Glyph base shape]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/shaping_font.gif</image:loc>
+<image:title><![CDATA[Shaping the glyph using simple shapes]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/shaped_font.jpg</image:loc>
+<image:title><![CDATA[Defined font shape]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/final_glyphs.jpg</image:loc>
+<image:title><![CDATA[Final font shape]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/resize_guide.jpg</image:loc>
+<image:title><![CDATA[Alignment guide for SVG file]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/resize_q.jpg</image:loc>
+<image:title><![CDATA[Alignment guide for letter 'Q']]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/em_size.jpg</image:loc>
+<image:title><![CDATA[Setting em size properties]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/ps_names.jpg</image:loc>
+<image:title><![CDATA[Setting font info]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/import.jpg</image:loc>
+<image:title><![CDATA[Importing SVG file to FontForge.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/horizontal_adjust.gif</image:loc>
+<image:title><![CDATA[Adjusting font width]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/10/font_preview.jpg</image:loc>
+<image:title><![CDATA[Testing the font]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/basesix-free-font.html</loc>
+<lastmod>2020-08-01T13:47:19+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/9/basesix01.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/hawk-rawk.html</loc>
+<lastmod>2020-08-02T12:01:33+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/15/hawkrawk01.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/kerberos.html</loc>
+<lastmod>2020-08-02T11:59:18+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/4/kerberos01.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/nadie-es-el-mismo-album-cover.html</loc>
+<lastmod>2020-08-02T12:03:35+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/11/neem01.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/11/neem02.jpg</image:loc>
+<image:title><![CDATA[Automàtico - Nadie Es El Mismo album cover front and back.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/page/2/</loc>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/privacy-policy.html</loc>
+<lastmod>2020-08-01T13:16:49+07:00</lastmod>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/rainbows-on-demand-tour-poster.html</loc>
+<lastmod>2020-08-02T12:30:21+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/13/rod02.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/samurai-skull-free-stock-vector-illustration.html</loc>
+<lastmod>2020-08-01T12:08:50+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/5/samuraiskull01-01-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/the-great-crazy-80-show-tour-poster.html</loc>
+<lastmod>2020-08-02T13:13:55+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/12/tgcet01.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/tiger-and-the-roses.html</loc>
+<lastmod>2020-08-02T11:58:57+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/6/tigerandroses01.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/transmitting-straight-from-the-buttnoggin-poster.html</loc>
+<lastmod>2020-08-02T13:11:13+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media/posts/14/tsftbn02.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
 </urlset>
