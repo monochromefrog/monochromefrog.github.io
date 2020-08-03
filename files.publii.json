@@ -142,7 +142,7 @@
     {
         "path": "basesix-font-creation-process.html",
         "type": "file",
-        "md5": "5ad55fe1eeb90fb5a871b02ea2137fd7"
+        "md5": "25c09120021b4b6c73948dd7f7d07694"
     },
     {
         "path": "basesix-free-font.html",
@@ -167,12 +167,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "4a5e091ad3d7b1c7fc1728b3a17860c3"
+        "md5": "a83b92e5bbe7bd51ab54fc45f3f1b3e5"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9ecd8ba7de059445e9cfdc3525e84c53"
+        "md5": "85c74eb6baebbd26eda6b778af1ab3da"
     },
     {
         "path": "hawk-rawk.html",
@@ -1057,7 +1057,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "9f49b01b9276b878458e12421e9c65b4"
+        "md5": "b67cf8643346fda610e03bb615e1922c"
     },
     {
         "path": "sitemap.xsl",
