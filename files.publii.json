@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0f52a90cbd6591712f1a8d253f3c2e42"
+        "md5": "c075b83a9956d5e0dd3de9dcc0326cb8"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "403122b333b1dc766ac12033b7f6dfce"
+        "md5": "964d44a211ffc3b373523ecada8289f1"
     },
     {
         "path": "artwork-for-sale",
@@ -17,7 +17,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "70f97b157c8737fadb25813914daed1e"
+        "md5": "39269345a8e238ee5d4a2ed7269c680c"
     },
     {
         "path": "assets",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "5a022a6de7cc756d6ea6a9830f137e36"
+        "md5": "d581e0d705bdeae04bc98dcb7694cac3"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -137,17 +137,17 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "25e8d5239d9a52051ab8fb185c2f0d95"
+        "md5": "852c8f90b449d6011f58c0b3c35a441c"
     },
     {
         "path": "basesix-font-creation-process.html",
         "type": "file",
-        "md5": "432cf506f3c3603e0bc09fc62d545b72"
+        "md5": "0f5aaced2709fe3721166b5c15cd9a44"
     },
     {
         "path": "basesix-free-font.html",
         "type": "file",
-        "md5": "885a9e2109479f65620227cbdc452a3d"
+        "md5": "02b1699e8f5c098c42ff72120446eb2d"
     },
     {
         "path": "blog",
@@ -157,42 +157,42 @@
     {
         "path": "/blog/index.html",
         "type": "file",
-        "md5": "a0cda263b4c647871fd379a087ecfb45"
+        "md5": "07424001a41c53f4e022e86154f71529"
     },
     {
         "path": "contact.html",
         "type": "file",
-        "md5": "603a63b974f67cf5838e5bb789c604f7"
+        "md5": "f87a9e6f67f4617270e36a713a5583d7"
     },
     {
         "path": "cyber-panda.html",
         "type": "file",
-        "md5": "2ff2b1c6374b48f1dca93d3e335e5951"
+        "md5": "5cb5ac6c7f74ef70e36bc86447afaf5b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "c89e75ca6e61b4422513f12da51ef53f"
+        "md5": "a0a959731e1c3d683ea5a51e854cc0b7"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2416eeb4d9e5cdb2fc868aef9406d793"
+        "md5": "0af934771e946bbedf5e669326ff1aab"
     },
     {
         "path": "hawk-rawk.html",
         "type": "file",
-        "md5": "2bd3e8e598bc63a1eecb89c95d85d56b"
+        "md5": "8c0782650fc17c9b7a3c1d682f6dae45"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b388a4fe7c9c5e7f5b311a4740e40be2"
+        "md5": "70be388fbdad3f74006f7613d7a1acd1"
     },
     {
         "path": "kerberos.html",
         "type": "file",
-        "md5": "b828c4caeaf56a5d06bbd129af4f7c0b"
+        "md5": "10f8748aa1d15470b7a7c8100450bfd3"
     },
     {
         "path": "media",
@@ -825,6 +825,56 @@
         "md5": "110c48b60961207dc39e7455ed1f1afd"
     },
     {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/nightgazer01.jpg",
+        "type": "file",
+        "md5": "410e85ec4a50fbf295e03be7c8536c48"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/nightgazer01-2xl.jpg",
+        "type": "file",
+        "md5": "a8eb351ac05378b3dcb3950939b46c7b"
+    },
+    {
+        "path": "/media/posts/17/responsive/nightgazer01-lg.jpg",
+        "type": "file",
+        "md5": "a8eb351ac05378b3dcb3950939b46c7b"
+    },
+    {
+        "path": "/media/posts/17/responsive/nightgazer01-md.jpg",
+        "type": "file",
+        "md5": "0cd0435450eae69d81af82ce628f9dab"
+    },
+    {
+        "path": "/media/posts/17/responsive/nightgazer01-sm.jpg",
+        "type": "file",
+        "md5": "8b03d8fb970fba1f83b29fb8b9a4b815"
+    },
+    {
+        "path": "/media/posts/17/responsive/nightgazer01-sm2.jpg",
+        "type": "file",
+        "md5": "947083a240b05cc1c7b33106f6af0003"
+    },
+    {
+        "path": "/media/posts/17/responsive/nightgazer01-xl.jpg",
+        "type": "file",
+        "md5": "a8eb351ac05378b3dcb3950939b46c7b"
+    },
+    {
+        "path": "/media/posts/17/responsive/nightgazer01-xs.jpg",
+        "type": "file",
+        "md5": "eef2dd5a92fdbd4e2a49bebd7a21ec19"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1072,7 +1122,12 @@
     {
         "path": "nadie-es-el-mismo-album-cover.html",
         "type": "file",
-        "md5": "8413287689c1e88802ced3d693b14149"
+        "md5": "8d98b7c85f59704001eabd4691a94909"
+    },
+    {
+        "path": "night-gazer.html",
+        "type": "file",
+        "md5": "796181c6bf70e020290e948399224fc1"
     },
     {
         "path": "page",
@@ -1087,32 +1142,32 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "7863adb6aa45c74f39a93b2596a4bf22"
+        "md5": "6f6e9111d7ec501e11981f395d78cd0d"
     },
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "6df55c3a47c873483b3c7e63ad0f1552"
+        "md5": "383e57bcd8fa8de6251faf60c38aa5c1"
     },
     {
         "path": "rainbows-on-demand-tour-poster.html",
         "type": "file",
-        "md5": "c8b0735b06771d644f0815134031917d"
+        "md5": "f7756d6fba1abeaa6abb06454483a68c"
     },
     {
         "path": "samurai-skull-free-stock-vector-illustration.html",
         "type": "file",
-        "md5": "655f11edcfe400085c7dc7fbd36dc0f1"
+        "md5": "8b75377b9d89573fda5f983ba9a1f4a2"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "5fffefc4dd6551de7a9c8a8a271294db"
+        "md5": "3eef77a1eb1b1c7c670c926f02cb6d82"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "36725eaddee39f8c537c65b59a521fdf"
+        "md5": "21d8dbef9fec322e5a0ca4022e03cae1"
     },
     {
         "path": "sitemap.xsl",
@@ -1127,22 +1182,22 @@
     {
         "path": "/stock-graphic/index.html",
         "type": "file",
-        "md5": "2785027cce9cbab56b8634a8674e3df2"
+        "md5": "f1e2dddc87d7d75c514483efaf43fda5"
     },
     {
         "path": "the-great-crazy-80-show-tour-poster.html",
         "type": "file",
-        "md5": "1e8c5c1e397d20704188e8e4efe061c2"
+        "md5": "2ace5aae92cde3caec50384286fc7787"
     },
     {
         "path": "tiger-and-the-roses.html",
         "type": "file",
-        "md5": "bcac6101431c942f77c6c11ebeb987a6"
+        "md5": "ccd536d3d83c060099dd8bdea3f936fb"
     },
     {
         "path": "transmitting-straight-from-the-buttnoggin-poster.html",
         "type": "file",
-        "md5": "f9c39928a5d43bb5c7bf851018a348e9"
+        "md5": "da9a9113d66c808956724b6b12d5c29c"
     },
     {
         "path": "typeface",
@@ -1152,6 +1207,6 @@
     {
         "path": "/typeface/index.html",
         "type": "file",
-        "md5": "b949cfab02f27fd797568551930ef2e4"
+        "md5": "4b8d54bd0e49f4a5409dff7c1838175b"
     }
 ]
