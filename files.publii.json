@@ -17,7 +17,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "39269345a8e238ee5d4a2ed7269c680c"
+        "md5": "efa929b8eb381a481a1216d6250a27d8"
     },
     {
         "path": "assets",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "3d5e8c20415ac17ab3478d8b46fab657"
+        "md5": "22ab1d1ea80b6d9f06d0b0efb02fb569"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "5baeb9dcc9c5dffd74e8bf1d6deaf44a"
+        "md5": "6b721371a822d3e69de5725627fdc3f5"
     },
     {
         "path": "basesix-font-creation-process.html",
@@ -172,12 +172,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "50581c890341eb62678303bee1a16223"
+        "md5": "b3e6829dcf3946d1f8ef4690366e2387"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e272633f16d0160563ab28f35fd8aaa5"
+        "md5": "41c899739b922dd6e25ece97f8cd6e26"
     },
     {
         "path": "hawk-rawk.html",
@@ -187,7 +187,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "fecbef60b37e0dda021b49182699d63c"
+        "md5": "3e83ec9930fcd9bb8ad068190a9bb6f1"
     },
     {
         "path": "kerberos.html",
@@ -950,6 +950,56 @@
         "md5": "b885ba9c9a7f2e16220688e6f41fded7"
     },
     {
+        "path": "media/posts/19",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/19/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/19/responsive/tsubame01-2xl.jpg",
+        "type": "file",
+        "md5": "c69fe6821e76275ccff429d02bb2e0a3"
+    },
+    {
+        "path": "/media/posts/19/responsive/tsubame01-lg.jpg",
+        "type": "file",
+        "md5": "c69fe6821e76275ccff429d02bb2e0a3"
+    },
+    {
+        "path": "/media/posts/19/responsive/tsubame01-md.jpg",
+        "type": "file",
+        "md5": "7ecc032393376b41843e20edf158ec15"
+    },
+    {
+        "path": "/media/posts/19/responsive/tsubame01-sm.jpg",
+        "type": "file",
+        "md5": "2321651fc73e59c45d34a1fd474e3f21"
+    },
+    {
+        "path": "/media/posts/19/responsive/tsubame01-sm2.jpg",
+        "type": "file",
+        "md5": "61ab2d338921a299655861cfd2fbc7fc"
+    },
+    {
+        "path": "/media/posts/19/responsive/tsubame01-xl.jpg",
+        "type": "file",
+        "md5": "c69fe6821e76275ccff429d02bb2e0a3"
+    },
+    {
+        "path": "/media/posts/19/responsive/tsubame01-xs.jpg",
+        "type": "file",
+        "md5": "a9b089c65aaeb5670d37e00fb6b46421"
+    },
+    {
+        "path": "/media/posts/19/tsubame01.jpg",
+        "type": "file",
+        "md5": "3a8b2b0812e04e9e86966f76b5ec27eb"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1207,7 +1257,7 @@
     {
         "path": "owl-01-free-stock-vector-illustration.html",
         "type": "file",
-        "md5": "1e7c3e7cf84f643a403b87c3457565d6"
+        "md5": "18cbd79de30efa3f5a983eeba519ae83"
     },
     {
         "path": "page",
@@ -1222,7 +1272,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "ded25a937e88515f0dae24fce3b22772"
+        "md5": "2f32d897e9856fd87b9860c57a4cac75"
     },
     {
         "path": "privacy-policy.html",
@@ -1247,7 +1297,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a1058d2c21219224b044c5bc6c4c13d3"
+        "md5": "e1b26eb19eafecce2dc67cce15d788f3"
     },
     {
         "path": "sitemap.xsl",
@@ -1278,6 +1328,11 @@
         "path": "transmitting-straight-from-the-buttnoggin-poster.html",
         "type": "file",
         "md5": "da9a9113d66c808956724b6b12d5c29c"
+    },
+    {
+        "path": "tsubame.html",
+        "type": "file",
+        "md5": "685f50a83a50d1a79a98f5fcc7846835"
     },
     {
         "path": "typeface",
