@@ -17,7 +17,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "7472b7abfe3c7998336e0a79fd65cffe"
+        "md5": "6cd8e794678571399e9830b7f4ed7687"
     },
     {
         "path": "assets",
@@ -122,7 +122,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "698dc99fa9e750e26668ad48416f6968"
+        "md5": "1f30c45f310e8ac0391a4a83c629d83c"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "bad71c4c390308e9405f6d3f0982a892"
+        "md5": "59134b0c24eeb451f1b7990616a1b900"
     },
     {
         "path": "basesix-font-creation-process.html",
@@ -177,12 +177,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "544dcac0aeaa5c584469056362506df6"
+        "md5": "128437ffdc48e9762af99230b503b993"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d81bf2ca97ec7bbc4715460f4525add9"
+        "md5": "d64f39aa957df886305bd3d9d9952dfb"
     },
     {
         "path": "hawk-rawk.html",
@@ -192,12 +192,12 @@
     {
         "path": "hello-miss-lo-wang.html",
         "type": "file",
-        "md5": "8abecea2625f10999be75daba6438f08"
+        "md5": "9f22e168597c1d5afc0d9a14a6dd3006"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "14147fc67721559be8883e2031ce4ccc"
+        "md5": "1e4003a84e61683f467142ce2e68154c"
     },
     {
         "path": "kerberos.html",
@@ -1110,6 +1110,56 @@
         "md5": "46d97236c563fbd2e8fde2d0f8b2a728"
     },
     {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/jester01.jpg",
+        "type": "file",
+        "md5": "0859b6580e2e30adaf0cd4b8d234a45b"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/jester01-2xl.jpg",
+        "type": "file",
+        "md5": "2741f100c96889636750aa796c31713b"
+    },
+    {
+        "path": "/media/posts/22/responsive/jester01-lg.jpg",
+        "type": "file",
+        "md5": "2741f100c96889636750aa796c31713b"
+    },
+    {
+        "path": "/media/posts/22/responsive/jester01-md.jpg",
+        "type": "file",
+        "md5": "dc98eb1674cdfb5ceabd0ae379fb9e50"
+    },
+    {
+        "path": "/media/posts/22/responsive/jester01-sm.jpg",
+        "type": "file",
+        "md5": "aeafed1f20e184d961dcb4efae3c5dfd"
+    },
+    {
+        "path": "/media/posts/22/responsive/jester01-sm2.jpg",
+        "type": "file",
+        "md5": "161df7ad21c9c2384f300053972b862b"
+    },
+    {
+        "path": "/media/posts/22/responsive/jester01-xl.jpg",
+        "type": "file",
+        "md5": "2741f100c96889636750aa796c31713b"
+    },
+    {
+        "path": "/media/posts/22/responsive/jester01-xs.jpg",
+        "type": "file",
+        "md5": "4caeb25aafe3b2a6c6411ec1ca956f93"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1382,7 +1432,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b27935a0a82c59c7b3e683272e482488"
+        "md5": "c88ae1be9f999d7127afe6a4a7277795"
     },
     {
         "path": "privacy-policy.html",
@@ -1407,7 +1457,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "bcab63958cbc235fa33221f3f69fe779"
+        "md5": "91a37b91522bbca7d4bdf5c309e353c6"
     },
     {
         "path": "sitemap.xsl",
@@ -1428,6 +1478,11 @@
         "path": "the-great-crazy-80-show-tour-poster.html",
         "type": "file",
         "md5": "2ace5aae92cde3caec50384286fc7787"
+    },
+    {
+        "path": "the-jester.html",
+        "type": "file",
+        "md5": "2513e710496d11718e3f2d0fb07aae18"
     },
     {
         "path": "tiger-and-the-roses.html",
