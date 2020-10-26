@@ -187,7 +187,7 @@
     {
         "path": "bomber-chimp.html",
         "type": "file",
-        "md5": "1488452b10fc71c3eedf880916815d59"
+        "md5": "931cca5723baffa11c5a54b63d97795b"
     },
     {
         "path": "butterfly-skull.html",
@@ -207,12 +207,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "6ab65edbf0fe9592aeedff17ee7e2c7f"
+        "md5": "f0d928dc809819ee03c3b8f251607d71"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d1e2c9ec7e28c9bc048aeac562ec4c98"
+        "md5": "3bbf45d808a81817a61110828364e934"
     },
     {
         "path": "hawk-rawk.html",
@@ -1652,7 +1652,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5cf0c01c76595c94fe9d4a97c135b39b"
+        "md5": "df2aa0220e065d5d8ac06eaca008c8a6"
     },
     {
         "path": "sitemap.xsl",
