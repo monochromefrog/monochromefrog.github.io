@@ -32,7 +32,7 @@
     {
         "path": "/artwork-for-sale/page/2/index.html",
         "type": "file",
-        "md5": "2763f98384642b845fc14250af612fd6"
+        "md5": "f6e54ada3ec3483b049deeffdf473613"
     },
     {
         "path": "assets",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "3154fce408e1be5a35992c43fe8c5ca8"
+        "md5": "6e541b30edfb775e82775b9dd4bbdd6b"
     },
     {
         "path": "authors/monochromefrog/page/3",
@@ -187,12 +187,12 @@
     {
         "path": "bomber-chimp.html",
         "type": "file",
-        "md5": "931cca5723baffa11c5a54b63d97795b"
+        "md5": "57544c92d209b5e60d14fb10ccd45e49"
     },
     {
         "path": "butterfly-skull.html",
         "type": "file",
-        "md5": "d572591793a3eff466c1cc98864c4f37"
+        "md5": "f7d8790dc452ccbb7531e7d25c7b2641"
     },
     {
         "path": "contact.html",
@@ -202,27 +202,27 @@
     {
         "path": "cyber-panda.html",
         "type": "file",
-        "md5": "5cb5ac6c7f74ef70e36bc86447afaf5b"
+        "md5": "6ee434d866a089b8d25fb0c55dde84e3"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "f0d928dc809819ee03c3b8f251607d71"
+        "md5": "5ca36922265e68f63dacef2a4a28c8ab"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "3bbf45d808a81817a61110828364e934"
+        "md5": "cfef286194f15192a995e2070b8d74e5"
     },
     {
         "path": "hawk-rawk.html",
         "type": "file",
-        "md5": "8c0782650fc17c9b7a3c1d682f6dae45"
+        "md5": "bd5ce2648d4134c0a9836d3da9cadc63"
     },
     {
         "path": "hello-miss-lo-wang.html",
         "type": "file",
-        "md5": "9f22e168597c1d5afc0d9a14a6dd3006"
+        "md5": "119d49403aff1f1f320919c48f4e86f8"
     },
     {
         "path": "index.html",
@@ -237,7 +237,7 @@
     {
         "path": "lets-play.html",
         "type": "file",
-        "md5": "69ff103624872a95c17dd42090dd03da"
+        "md5": "a2b87da953315a7511de126c3c7f1913"
     },
     {
         "path": "media",
@@ -1480,44 +1480,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/6/responsive/tigerandroses01-2xl.jpg",
+        "path": "/media/posts/6/responsive/tigerandroses01-3-2xl.jpg",
         "type": "file",
-        "md5": "e52095b1fdf905161048eef0220869cf"
+        "md5": "cf75bf2a8b16d0ac6c759a627b9ecd41"
     },
     {
-        "path": "/media/posts/6/responsive/tigerandroses01-lg.jpg",
+        "path": "/media/posts/6/responsive/tigerandroses01-3-lg.jpg",
         "type": "file",
-        "md5": "e52095b1fdf905161048eef0220869cf"
+        "md5": "cf75bf2a8b16d0ac6c759a627b9ecd41"
     },
     {
-        "path": "/media/posts/6/responsive/tigerandroses01-md.jpg",
+        "path": "/media/posts/6/responsive/tigerandroses01-3-md.jpg",
         "type": "file",
-        "md5": "f67e6ff5724783e54a587f3cce29a702"
+        "md5": "b0320dedd878c6dfe11278f769a12beb"
     },
     {
-        "path": "/media/posts/6/responsive/tigerandroses01-sm.jpg",
+        "path": "/media/posts/6/responsive/tigerandroses01-3-sm.jpg",
         "type": "file",
-        "md5": "33785b80d71349db9dc435c2a8b2c897"
+        "md5": "05d18682b91b153168c9dd8eaa427527"
     },
     {
-        "path": "/media/posts/6/responsive/tigerandroses01-sm2.jpg",
+        "path": "/media/posts/6/responsive/tigerandroses01-3-sm2.jpg",
         "type": "file",
-        "md5": "88abbf3b73d6d4a78c84bd1cce2013d8"
+        "md5": "306bf97ea68a71d6d84fb01f6feee946"
     },
     {
-        "path": "/media/posts/6/responsive/tigerandroses01-xl.jpg",
+        "path": "/media/posts/6/responsive/tigerandroses01-3-xl.jpg",
         "type": "file",
-        "md5": "e52095b1fdf905161048eef0220869cf"
+        "md5": "cf75bf2a8b16d0ac6c759a627b9ecd41"
     },
     {
-        "path": "/media/posts/6/responsive/tigerandroses01-xs.jpg",
+        "path": "/media/posts/6/responsive/tigerandroses01-3-xs.jpg",
         "type": "file",
-        "md5": "f1d9710521b73073ea473453440582ec"
+        "md5": "ae9a2bebbd7910e75f9a1d1d9131d3f8"
     },
     {
-        "path": "/media/posts/6/tigerandroses01.jpg",
+        "path": "/media/posts/6/tigerandroses01-3.jpg",
         "type": "file",
-        "md5": "f510488ea40a2926916dd0a82be382c9"
+        "md5": "ce276392e4899f2bd7511206fbed90be"
     },
     {
         "path": "media/posts/9",
@@ -1597,7 +1597,7 @@
     {
         "path": "night-gazer.html",
         "type": "file",
-        "md5": "9aaf5ff531b16470990eec90432749dd"
+        "md5": "6ee8bd8f5254e3fb52e32160f6ea4ba7"
     },
     {
         "path": "owl-01-free-stock-vector-illustration.html",
@@ -1617,7 +1617,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "d36c0c414367f8902671f2597b230a6d"
+        "md5": "98845a30fe8cc597f7808b72ad52b92f"
     },
     {
         "path": "page/3",
@@ -1652,7 +1652,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "df2aa0220e065d5d8ac06eaca008c8a6"
+        "md5": "b1ddc6eed1cb0406ac0c6a07473ceaa9"
     },
     {
         "path": "sitemap.xsl",
@@ -1672,7 +1672,7 @@
     {
         "path": "the-chef-and-the-soup.html",
         "type": "file",
-        "md5": "5354f9471f0744d5824ff77a33107d2d"
+        "md5": "5649534c5cd26781048bbb7dcea6a22c"
     },
     {
         "path": "the-great-crazy-80-show-tour-poster.html",
@@ -1682,12 +1682,12 @@
     {
         "path": "the-jester.html",
         "type": "file",
-        "md5": "630d42a7c254ce466a62bbbed6e138e8"
+        "md5": "87cec2b6c4a113e7efbadcb291cf668e"
     },
     {
         "path": "tiger-and-the-roses.html",
         "type": "file",
-        "md5": "ccd536d3d83c060099dd8bdea3f936fb"
+        "md5": "7f4badc88a37975279f545aadf5b8156"
     },
     {
         "path": "transmitting-straight-from-the-buttnoggin-poster.html",
@@ -1697,7 +1697,7 @@
     {
         "path": "tsubame.html",
         "type": "file",
-        "md5": "073046cab04827dfff783c9709647a08"
+        "md5": "70bafbdf14de287ed86b4c8f75bace40"
     },
     {
         "path": "typeface",
