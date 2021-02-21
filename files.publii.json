@@ -17,7 +17,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "eb1f912557aee5a450caa6f3be7f1258"
+        "md5": "bdae26ae3f90ab4768ec869fc3ca1270"
     },
     {
         "path": "artwork-for-sale/page",
@@ -32,7 +32,7 @@
     {
         "path": "/artwork-for-sale/page/2/index.html",
         "type": "file",
-        "md5": "ed5c96763ec9a8bef39eea19ea3b4f1a"
+        "md5": "8a7edf54ac8a9ea3da9afccddf6e00a7"
     },
     {
         "path": "assets",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "57e6e67a3c05d41182c5fe8db557c270"
+        "md5": "67f1e609ad490987eca912b64dee1633"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "c4308d67345ff0637a5b65919a620497"
+        "md5": "68879381d1538c012a1ef460d4a78d9e"
     },
     {
         "path": "authors/monochromefrog/page/3",
@@ -162,7 +162,7 @@
     {
         "path": "/authors/monochromefrog/page/3/index.html",
         "type": "file",
-        "md5": "94ce340fce07a6d8f6ba32029d95767b"
+        "md5": "cc4889f49b3b907db62396d422a98d9e"
     },
     {
         "path": "basesix-font-creation-process.html",
@@ -207,17 +207,17 @@
     {
         "path": "fang.html",
         "type": "file",
-        "md5": "80318f1e68720cbc03431be40af8e71e"
+        "md5": "088c0ad4ea377aea544cd3e79c39dd6a"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "dccbb80b06a038f317cfa6cd91e861e4"
+        "md5": "d7ff9dbee54ef4c0b3765f5586a19199"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "8721d732a4d94028df6235c3d2f342e4"
+        "md5": "fd3c77bf7d8d68b7954927a835f0fbf0"
     },
     {
         "path": "hawk-rawk.html",
@@ -232,7 +232,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f12a874dac341f7921b11145bfd504f8"
+        "md5": "5281fe01851bb085559dfca31729fb30"
     },
     {
         "path": "kerberos.html",
@@ -1400,6 +1400,56 @@
         "md5": "cac8ab0c0bf60ea1bad2c0fe057d7c18"
     },
     {
+        "path": "media/posts/27",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/bearhug01-2.jpg",
+        "type": "file",
+        "md5": "569af52d5a8a7a1522a8674b3e039f08"
+    },
+    {
+        "path": "media/posts/27/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/27/responsive/bearhug01-2-2xl.jpg",
+        "type": "file",
+        "md5": "3ac88bfd872c5afdeee37c5513207df9"
+    },
+    {
+        "path": "/media/posts/27/responsive/bearhug01-2-lg.jpg",
+        "type": "file",
+        "md5": "3ac88bfd872c5afdeee37c5513207df9"
+    },
+    {
+        "path": "/media/posts/27/responsive/bearhug01-2-md.jpg",
+        "type": "file",
+        "md5": "0a854603d06bbecaa8386c6d69d582d9"
+    },
+    {
+        "path": "/media/posts/27/responsive/bearhug01-2-sm.jpg",
+        "type": "file",
+        "md5": "707ea1965bc521fe8ba02b95c672a867"
+    },
+    {
+        "path": "/media/posts/27/responsive/bearhug01-2-sm2.jpg",
+        "type": "file",
+        "md5": "378d452fef3a327d0fa4972d845f6892"
+    },
+    {
+        "path": "/media/posts/27/responsive/bearhug01-2-xl.jpg",
+        "type": "file",
+        "md5": "3ac88bfd872c5afdeee37c5513207df9"
+    },
+    {
+        "path": "/media/posts/27/responsive/bearhug01-2-xs.jpg",
+        "type": "file",
+        "md5": "84aff976c0aea78d8433b216af645925"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1672,7 +1722,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "dcf33ff9bf8302690d998c9ca7d55b41"
+        "md5": "1ad5eacbc359f2eeb01388cfb42b3287"
     },
     {
         "path": "page/3",
@@ -1682,7 +1732,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "2b888b4faec431d77c94274594b9c190"
+        "md5": "4d80caffcf46a157b24ea065bfdf6816"
     },
     {
         "path": "privacy-policy.html",
@@ -1707,7 +1757,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7cdc283aecff8a0902f1c966db1e0c77"
+        "md5": "7663700ef7ea4f30a7f32381675e1d32"
     },
     {
         "path": "sitemap.xsl",
@@ -1738,6 +1788,11 @@
         "path": "the-jester.html",
         "type": "file",
         "md5": "87cec2b6c4a113e7efbadcb291cf668e"
+    },
+    {
+        "path": "the-roaring-grizzly.html",
+        "type": "file",
+        "md5": "4dcbcb8fe889dab46aa8f61a738c0100"
     },
     {
         "path": "tiger-and-the-roses.html",
