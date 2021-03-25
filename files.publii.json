@@ -17,7 +17,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "bdae26ae3f90ab4768ec869fc3ca1270"
+        "md5": "98fa7c5a3ed5b46e8ad2a445e926298c"
     },
     {
         "path": "artwork-for-sale/page",
@@ -32,7 +32,7 @@
     {
         "path": "/artwork-for-sale/page/2/index.html",
         "type": "file",
-        "md5": "8a7edf54ac8a9ea3da9afccddf6e00a7"
+        "md5": "866f80d3f66af18bd9a1bc69262271af"
     },
     {
         "path": "assets",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "67f1e609ad490987eca912b64dee1633"
+        "md5": "0e12977d3f4ad7eec5cd477e5762c5d4"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "68879381d1538c012a1ef460d4a78d9e"
+        "md5": "28507e7cb8fa37787ea8d6915ac3c566"
     },
     {
         "path": "authors/monochromefrog/page/3",
@@ -162,7 +162,7 @@
     {
         "path": "/authors/monochromefrog/page/3/index.html",
         "type": "file",
-        "md5": "cc4889f49b3b907db62396d422a98d9e"
+        "md5": "7e4a5e973fd22b046f3d1f1e2caca93c"
     },
     {
         "path": "basesix-font-creation-process.html",
@@ -212,12 +212,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d7ff9dbee54ef4c0b3765f5586a19199"
+        "md5": "bd7a6e5654dd0bb524cb6290374d78e2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "fd3c77bf7d8d68b7954927a835f0fbf0"
+        "md5": "a0deb8bbbbbb3bb9a322617b03d03164"
     },
     {
         "path": "hawk-rawk.html",
@@ -232,7 +232,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5281fe01851bb085559dfca31729fb30"
+        "md5": "ae0e3743732ae11e21edd5961726dd43"
     },
     {
         "path": "kerberos.html",
@@ -1450,6 +1450,56 @@
         "md5": "84aff976c0aea78d8433b216af645925"
     },
     {
+        "path": "media/posts/28",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/28/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/28/responsive/stalebear01-2xl.jpg",
+        "type": "file",
+        "md5": "81eb503c8f3ad104df9f43b40dcd0810"
+    },
+    {
+        "path": "/media/posts/28/responsive/stalebear01-lg.jpg",
+        "type": "file",
+        "md5": "81eb503c8f3ad104df9f43b40dcd0810"
+    },
+    {
+        "path": "/media/posts/28/responsive/stalebear01-md.jpg",
+        "type": "file",
+        "md5": "cd5088ed5370a02a6797a3ced4452085"
+    },
+    {
+        "path": "/media/posts/28/responsive/stalebear01-sm.jpg",
+        "type": "file",
+        "md5": "e6a882a1b8e8ad0ac5674300a860263a"
+    },
+    {
+        "path": "/media/posts/28/responsive/stalebear01-sm2.jpg",
+        "type": "file",
+        "md5": "1062b64334d0945dfba0a8dcbf206399"
+    },
+    {
+        "path": "/media/posts/28/responsive/stalebear01-xl.jpg",
+        "type": "file",
+        "md5": "81eb503c8f3ad104df9f43b40dcd0810"
+    },
+    {
+        "path": "/media/posts/28/responsive/stalebear01-xs.jpg",
+        "type": "file",
+        "md5": "43c2760a1bef055b541d83aa39939b82"
+    },
+    {
+        "path": "/media/posts/28/stalebear01.jpg",
+        "type": "file",
+        "md5": "c936ae30a8cae1fccf49638ad4d0cd50"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1722,7 +1772,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "1ad5eacbc359f2eeb01388cfb42b3287"
+        "md5": "aea46e3895f94fa3a8d8dddf28ae086a"
     },
     {
         "path": "page/3",
@@ -1732,7 +1782,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "4d80caffcf46a157b24ea065bfdf6816"
+        "md5": "b1cf12bfb718ab8e8519092ad8199c3b"
     },
     {
         "path": "privacy-policy.html",
@@ -1757,12 +1807,17 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "7663700ef7ea4f30a7f32381675e1d32"
+        "md5": "58484bbd533e53a09a94125c13ea801d"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "stale-bear.html",
+        "type": "file",
+        "md5": "f28c2a6a37bfc032f36da42e90265989"
     },
     {
         "path": "stock-graphic",
@@ -1792,7 +1847,7 @@
     {
         "path": "the-roaring-grizzly.html",
         "type": "file",
-        "md5": "4dcbcb8fe889dab46aa8f61a738c0100"
+        "md5": "f224e077243c4b2f390e3448ebc8f00d"
     },
     {
         "path": "tiger-and-the-roses.html",
