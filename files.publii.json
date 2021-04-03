@@ -2,12 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "4ea280a63a9ff6f29c990bf6c759947f"
+        "md5": "290d68d9ed04279b79292bd5c1973622"
+    },
+    {
+        "path": "README.md",
+        "type": "file",
+        "md5": "1ece61f8587ef26e28b1335c10e75ace"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "9fe17969790f9ae1718414920b2dd959"
+        "md5": "b7845a95c314c7146bf8afe26131c929"
     },
     {
         "path": "artwork-for-sale",
@@ -17,7 +22,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "8b48dcfece11645ca9312110b5fcd91b"
+        "md5": "540452bde21af185678b05b510f3b5bf"
     },
     {
         "path": "artwork-for-sale/page",
@@ -32,7 +37,7 @@
     {
         "path": "/artwork-for-sale/page/2/index.html",
         "type": "file",
-        "md5": "99044ec1fed8de291a65640c7ea61aeb"
+        "md5": "3c724d907d3cd4ad18c57d953960e386"
     },
     {
         "path": "assets",
@@ -137,7 +142,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "48ccad5213626fad4b998fecc27dac98"
+        "md5": "f1eda25fb94c83cd2c814bb26ce68b19"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -152,7 +157,7 @@
     {
         "path": "/authors/monochromefrog/page/2/index.html",
         "type": "file",
-        "md5": "062b5ca06dede8ed0e98e4501c0558d6"
+        "md5": "8403428e00f39cd045392c1cc00c4711"
     },
     {
         "path": "authors/monochromefrog/page/3",
@@ -162,87 +167,72 @@
     {
         "path": "/authors/monochromefrog/page/3/index.html",
         "type": "file",
-        "md5": "c7540f734d5a9f58c79fa86d810fec30"
-    },
-    {
-        "path": "basesix-font-creation-process.html",
-        "type": "file",
-        "md5": "4410adc44e3c376e5b6774079dbb9b9b"
+        "md5": "de20adfe933434dd66f8bbdede59fba3"
     },
     {
         "path": "basesix-free-font.html",
         "type": "file",
-        "md5": "87411e81de3680f925a5594226902d7a"
-    },
-    {
-        "path": "blog",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/blog/index.html",
-        "type": "file",
-        "md5": "fc0562e6fa374eda8cbc52c9b6c359eb"
+        "md5": "209de1f3a6832caa4f97c71d295f05a3"
     },
     {
         "path": "bomber-chimp.html",
         "type": "file",
-        "md5": "aa35193e65a3034f14a5242ce4b6363d"
+        "md5": "a548e883a0301bcc2269270ab99b6dba"
     },
     {
         "path": "butterfly-skull.html",
         "type": "file",
-        "md5": "6b6d0a8c58c4aab3285a751d0f591d3b"
+        "md5": "72b3f9dff31ab10d7739c43e62752e79"
     },
     {
         "path": "contact.html",
         "type": "file",
-        "md5": "66b0a64e59cd2efbd028a114098506b6"
+        "md5": "3de6a4f9df704e76b2c1cb59420dc8af"
     },
     {
         "path": "cyber-panda.html",
         "type": "file",
-        "md5": "6f125e5a63838d064f2128eb08404c70"
+        "md5": "e37e73eab83ce5b03e20a70eb8c6609b"
     },
     {
         "path": "fang.html",
         "type": "file",
-        "md5": "e3e1abd7422b48033a38ecbb6b1bf1ef"
+        "md5": "562c15e22ad59f0c16d5c835d6f222bf"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "c733c20126f0823573a38e8432e6e84a"
+        "md5": "5000af3bcd0126d3c463dab22abc623c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a873f2375e7462b5a97ae314c488c2ba"
+        "md5": "4dd7a4f989cd150fb2e0c0480dd7bdbe"
     },
     {
         "path": "hawk-rawk.html",
         "type": "file",
-        "md5": "f8a1285ccd522e2d7169199648a40c29"
+        "md5": "94245ff8b49f1d0bfa7ff146103cf875"
     },
     {
         "path": "hello-miss-lo-wang.html",
         "type": "file",
-        "md5": "dcc718c0857e744e1b0ceac03694fcef"
+        "md5": "53170619b22bfc168e8583e55f9698aa"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f746a3165e85c043b1b2b0b27eca6b93"
+        "md5": "4fc4acaf169f3749ee3afea2547d3c91"
     },
     {
         "path": "kerberos.html",
         "type": "file",
-        "md5": "6a56a2bec916936bfc0c4b0e3e8a4e92"
+        "md5": "2480b59c3bf979ef2a372dcbfdfe36cf"
     },
     {
         "path": "lets-play.html",
         "type": "file",
-        "md5": "b851a629544aa14aca070919a172327c"
+        "md5": "b36f592b9ef7bc9ecf0240d076f7d55e"
     },
     {
         "path": "media",
@@ -263,291 +253,6 @@
         "path": "media/posts",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "media/posts/10",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/10/base_shape.jpg",
-        "type": "file",
-        "md5": "4f6d18d7f8b104cdd6f8ce88db8ba2be"
-    },
-    {
-        "path": "/media/posts/10/basesixcreation.jpg",
-        "type": "file",
-        "md5": "aac6f29b48e8fe6e324330bfdb41c0d2"
-    },
-    {
-        "path": "/media/posts/10/em_size.jpg",
-        "type": "file",
-        "md5": "fe43fe50ae44652fd138a8a69bbbe4c8"
-    },
-    {
-        "path": "/media/posts/10/final_glyphs.jpg",
-        "type": "file",
-        "md5": "bfa1403b7f93d3bb91cd667bd79df71f"
-    },
-    {
-        "path": "/media/posts/10/font_preview.jpg",
-        "type": "file",
-        "md5": "2ca0a22d9e8bc45ae407261f7df3a051"
-    },
-    {
-        "path": "/media/posts/10/horizontal_adjust.gif",
-        "type": "file",
-        "md5": "6f541c405818013ab674f9899ada9753"
-    },
-    {
-        "path": "/media/posts/10/import.jpg",
-        "type": "file",
-        "md5": "b956097282e9acd220735b71b1d04297"
-    },
-    {
-        "path": "/media/posts/10/ps_names.jpg",
-        "type": "file",
-        "md5": "75455f5c75fbe72a5664ab766769ca5e"
-    },
-    {
-        "path": "/media/posts/10/resize_guide.jpg",
-        "type": "file",
-        "md5": "14a7a0c71aa6ef138af2f3e847e52896"
-    },
-    {
-        "path": "/media/posts/10/resize_q.jpg",
-        "type": "file",
-        "md5": "0f145fc730c0c10f826518efb00d392d"
-    },
-    {
-        "path": "media/posts/10/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/10/responsive/base_shape-lg.jpg",
-        "type": "file",
-        "md5": "e046e0d9e8dfbe07809c55c8fdb5b330"
-    },
-    {
-        "path": "/media/posts/10/responsive/base_shape-md.jpg",
-        "type": "file",
-        "md5": "e046e0d9e8dfbe07809c55c8fdb5b330"
-    },
-    {
-        "path": "/media/posts/10/responsive/base_shape-sm.jpg",
-        "type": "file",
-        "md5": "e046e0d9e8dfbe07809c55c8fdb5b330"
-    },
-    {
-        "path": "/media/posts/10/responsive/base_shape-xs.jpg",
-        "type": "file",
-        "md5": "a3c7b8825d27d96c0003c1055bdf09f4"
-    },
-    {
-        "path": "/media/posts/10/responsive/basesixcreation-2xl.jpg",
-        "type": "file",
-        "md5": "ec658e67afb1901f41f01640e2497a00"
-    },
-    {
-        "path": "/media/posts/10/responsive/basesixcreation-lg.jpg",
-        "type": "file",
-        "md5": "ec658e67afb1901f41f01640e2497a00"
-    },
-    {
-        "path": "/media/posts/10/responsive/basesixcreation-md.jpg",
-        "type": "file",
-        "md5": "6b262a27644d50c6d88e80d9d353084b"
-    },
-    {
-        "path": "/media/posts/10/responsive/basesixcreation-sm.jpg",
-        "type": "file",
-        "md5": "a0f7d9f4d48d15473cdda524e9dc4b25"
-    },
-    {
-        "path": "/media/posts/10/responsive/basesixcreation-sm2.jpg",
-        "type": "file",
-        "md5": "89ce108c956e235067721ea25c0fb3d5"
-    },
-    {
-        "path": "/media/posts/10/responsive/basesixcreation-xl.jpg",
-        "type": "file",
-        "md5": "ec658e67afb1901f41f01640e2497a00"
-    },
-    {
-        "path": "/media/posts/10/responsive/basesixcreation-xs.jpg",
-        "type": "file",
-        "md5": "6c1c6add93a8903a047efa6838d773b1"
-    },
-    {
-        "path": "/media/posts/10/responsive/em_size-lg.jpg",
-        "type": "file",
-        "md5": "73f724ec05aa309a39089b57ba480c47"
-    },
-    {
-        "path": "/media/posts/10/responsive/em_size-md.jpg",
-        "type": "file",
-        "md5": "73f724ec05aa309a39089b57ba480c47"
-    },
-    {
-        "path": "/media/posts/10/responsive/em_size-sm.jpg",
-        "type": "file",
-        "md5": "73f724ec05aa309a39089b57ba480c47"
-    },
-    {
-        "path": "/media/posts/10/responsive/em_size-xs.jpg",
-        "type": "file",
-        "md5": "b7a221c7bc7d4c7375b355c150b978b7"
-    },
-    {
-        "path": "/media/posts/10/responsive/final_glyphs-lg.jpg",
-        "type": "file",
-        "md5": "c8c695d43ec1d537e0d89aca189f485e"
-    },
-    {
-        "path": "/media/posts/10/responsive/final_glyphs-md.jpg",
-        "type": "file",
-        "md5": "c8c695d43ec1d537e0d89aca189f485e"
-    },
-    {
-        "path": "/media/posts/10/responsive/final_glyphs-sm.jpg",
-        "type": "file",
-        "md5": "c8c695d43ec1d537e0d89aca189f485e"
-    },
-    {
-        "path": "/media/posts/10/responsive/final_glyphs-xs.jpg",
-        "type": "file",
-        "md5": "2c46bb518a19d41a76072beacdd2fedd"
-    },
-    {
-        "path": "/media/posts/10/responsive/font_preview-lg.jpg",
-        "type": "file",
-        "md5": "9a6fabd3ca0f2c985df74d14e2756b59"
-    },
-    {
-        "path": "/media/posts/10/responsive/font_preview-md.jpg",
-        "type": "file",
-        "md5": "9a6fabd3ca0f2c985df74d14e2756b59"
-    },
-    {
-        "path": "/media/posts/10/responsive/font_preview-sm.jpg",
-        "type": "file",
-        "md5": "9a6fabd3ca0f2c985df74d14e2756b59"
-    },
-    {
-        "path": "/media/posts/10/responsive/font_preview-xs.jpg",
-        "type": "file",
-        "md5": "38e90835101d3b6013185d323d710840"
-    },
-    {
-        "path": "/media/posts/10/responsive/import-lg.jpg",
-        "type": "file",
-        "md5": "50e020570e03dc194a29609a5128c07e"
-    },
-    {
-        "path": "/media/posts/10/responsive/import-md.jpg",
-        "type": "file",
-        "md5": "50e020570e03dc194a29609a5128c07e"
-    },
-    {
-        "path": "/media/posts/10/responsive/import-sm.jpg",
-        "type": "file",
-        "md5": "50e020570e03dc194a29609a5128c07e"
-    },
-    {
-        "path": "/media/posts/10/responsive/import-xs.jpg",
-        "type": "file",
-        "md5": "c9c06b4f93b69ec7eb7ba4d576696a17"
-    },
-    {
-        "path": "/media/posts/10/responsive/ps_names-lg.jpg",
-        "type": "file",
-        "md5": "ce163ea08cf0b6b233acb53ecda6f143"
-    },
-    {
-        "path": "/media/posts/10/responsive/ps_names-md.jpg",
-        "type": "file",
-        "md5": "ce163ea08cf0b6b233acb53ecda6f143"
-    },
-    {
-        "path": "/media/posts/10/responsive/ps_names-sm.jpg",
-        "type": "file",
-        "md5": "ce163ea08cf0b6b233acb53ecda6f143"
-    },
-    {
-        "path": "/media/posts/10/responsive/ps_names-xs.jpg",
-        "type": "file",
-        "md5": "d82cf10d8c73ab4119524e73ba875558"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_guide-lg.jpg",
-        "type": "file",
-        "md5": "624326a850327ebd2fd3c87780d9d5cd"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_guide-md.jpg",
-        "type": "file",
-        "md5": "cc3ac61dd8314cc6dfcf2d04c8b8967b"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_guide-sm.jpg",
-        "type": "file",
-        "md5": "77f401e98dc0923faaa130c32e4c6b83"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_guide-xs.jpg",
-        "type": "file",
-        "md5": "0af4d18f31fc0e7c0bf1166f65da0ac9"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_q-lg.jpg",
-        "type": "file",
-        "md5": "370dff8f328cec87298ee6701f78d4e9"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_q-md.jpg",
-        "type": "file",
-        "md5": "370dff8f328cec87298ee6701f78d4e9"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_q-sm.jpg",
-        "type": "file",
-        "md5": "370dff8f328cec87298ee6701f78d4e9"
-    },
-    {
-        "path": "/media/posts/10/responsive/resize_q-xs.jpg",
-        "type": "file",
-        "md5": "34f067d4e22a3fe5c4a4bf7c426d969f"
-    },
-    {
-        "path": "/media/posts/10/responsive/shaped_font-lg.jpg",
-        "type": "file",
-        "md5": "48113f833965457da8149b32e6e21ea7"
-    },
-    {
-        "path": "/media/posts/10/responsive/shaped_font-md.jpg",
-        "type": "file",
-        "md5": "48113f833965457da8149b32e6e21ea7"
-    },
-    {
-        "path": "/media/posts/10/responsive/shaped_font-sm.jpg",
-        "type": "file",
-        "md5": "48113f833965457da8149b32e6e21ea7"
-    },
-    {
-        "path": "/media/posts/10/responsive/shaped_font-xs.jpg",
-        "type": "file",
-        "md5": "0965103e17b5779f139072e21b57add3"
-    },
-    {
-        "path": "/media/posts/10/shaped_font.jpg",
-        "type": "file",
-        "md5": "991286781ac9ace78607aaa2114bfe62"
-    },
-    {
-        "path": "/media/posts/10/shaping_font.gif",
-        "type": "file",
-        "md5": "ab97b5e1da58fa4c771f7e4e0aba1eab"
     },
     {
         "path": "media/posts/11",
@@ -1747,17 +1452,17 @@
     {
         "path": "nadie-es-el-mismo-album-cover.html",
         "type": "file",
-        "md5": "35d05f6fe679d2878a72dcf23ecd538a"
+        "md5": "7d4bbd92d78239aff977f3aa91a98161"
     },
     {
         "path": "night-gazer.html",
         "type": "file",
-        "md5": "17785b7df590d916ca9a3abdb9f86453"
+        "md5": "629019115262b2c217dcb98b62c4e153"
     },
     {
         "path": "owl-01-free-stock-vector-illustration.html",
         "type": "file",
-        "md5": "c0408cebc840e5bed8d8d42c26a09f36"
+        "md5": "e04afa44e3409a94c3d38c261bec13df"
     },
     {
         "path": "page",
@@ -1772,7 +1477,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "3d22332815cb5d213a86316d84573c74"
+        "md5": "ddad8e863cd340864ef59cac90cf9772"
     },
     {
         "path": "page/3",
@@ -1782,32 +1487,37 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "29b4705196eb623e3f78393057020eb7"
+        "md5": "006590e5d849a90bd2dd6aa19a7aeba9"
+    },
+    {
+        "path": "pinterest-2f802.html",
+        "type": "file",
+        "md5": "0a4042dd54df7f71bc825fb122bbde94"
     },
     {
         "path": "privacy-policy.html",
         "type": "file",
-        "md5": "1b9b8c3a4bbb375356d4e54c623b6ce9"
+        "md5": "4b8df3bb0736086b7f5d22ef1679166c"
     },
     {
         "path": "rainbows-on-demand-tour-poster.html",
         "type": "file",
-        "md5": "a956e6f0b4ad3c0ff4ca24ec27dc704a"
+        "md5": "7fff35721086133d5f4d8a96d21e3149"
     },
     {
         "path": "samurai-skull-free-stock-vector-illustration.html",
         "type": "file",
-        "md5": "312f1a95e62ceb88c0521c7a023ffcaa"
+        "md5": "ce7cd0cba8136963f0e8ff593b597514"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "8cdd13d55fe40491ed1169e4e190c457"
+        "md5": "dceae7364d8d3b2f619b4c95c934800e"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "757791aaef697ebf56e9e452fb55a02d"
+        "md5": "e70f49c598b4a36ed5ec963cc2393d9d"
     },
     {
         "path": "sitemap.xsl",
@@ -1817,7 +1527,7 @@
     {
         "path": "stale-bear.html",
         "type": "file",
-        "md5": "ab00460b9643c47f10a4b914bcfe052d"
+        "md5": "9af03b90eca1543bb47853d93ea942ee"
     },
     {
         "path": "stock-graphic",
@@ -1827,42 +1537,42 @@
     {
         "path": "/stock-graphic/index.html",
         "type": "file",
-        "md5": "2b4881064636a3b7f1d1b97e0ce1f4c9"
+        "md5": "a341b229fa03dcea7419bea01e7421d0"
     },
     {
         "path": "the-chef-and-the-soup.html",
         "type": "file",
-        "md5": "5ce7fa61fcb464f223e056117a74c357"
+        "md5": "461c49c50a1c3ce73b84afda447cd198"
     },
     {
         "path": "the-great-crazy-80-show-tour-poster.html",
         "type": "file",
-        "md5": "7684879930f1634aa307d482a5d668f7"
+        "md5": "c9e1da35688acfafe8c448ab3340fcf3"
     },
     {
         "path": "the-jester.html",
         "type": "file",
-        "md5": "1486eb60d542ea4e5e6e94309477db16"
+        "md5": "16249c7d3c6dcece2e0eea2f79957437"
     },
     {
         "path": "the-roaring-grizzly.html",
         "type": "file",
-        "md5": "145c0548370bc61b6727d1f49037233e"
+        "md5": "1e670f9dd722dc780c84910edfad9e0e"
     },
     {
         "path": "tiger-and-the-roses.html",
         "type": "file",
-        "md5": "45640b204ecc698908083d792fcc99ec"
+        "md5": "133462060d6f1dd4a2f8e73ace26488c"
     },
     {
         "path": "transmitting-straight-from-the-buttnoggin-poster.html",
         "type": "file",
-        "md5": "7200840c38e41e7838dbad00a6b4f377"
+        "md5": "45a883f464274b40167dd76658e2dd84"
     },
     {
         "path": "tsubame.html",
         "type": "file",
-        "md5": "456124d0474802170f7c264edc5a8bbf"
+        "md5": "ebbec4adb23ea26233cb465304edb629"
     },
     {
         "path": "typeface",
@@ -1872,6 +1582,6 @@
     {
         "path": "/typeface/index.html",
         "type": "file",
-        "md5": "80eff0679d1c643d4703fb57a098f974"
+        "md5": "0233040e4cce86832fe2cd33cade6888"
     }
 ]
