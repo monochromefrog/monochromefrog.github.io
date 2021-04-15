@@ -10,6 +10,33 @@
     <id>https://monochromefrog.github.io</id>
 
     <entry>
+        <title>Mechanoid Font</title>
+        <author>
+            <name>monochromefrog</name>
+        </author>
+        <link href="https://monochromefrog.github.io/mechanoid-font.html"/>
+        <id>https://monochromefrog.github.io/mechanoid-font.html</id>
+            <category term="Typeface"/>
+
+        <updated>2021-04-15T23:26:53+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://monochromefrog.github.io/media/posts/29/mechanoid01.jpg" alt="" />
+                    Mecha inspired font. I love mecha anime, so I decided to make&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://monochromefrog.github.io/media/posts/29/mechanoid01.jpg" alt="" />
+                <p>Mecha inspired font. I love mecha anime, so I decided to make this display font as an effect of watching them numerous times. You can use the font in personal and commercial projects without any cost.</p>
+<p>GRAB THE FONT:</p>
+<p><a href="https://ko-fi.com/s/55c3bfc952" title="Download Mechanoid font from my Ko-fi Shop" target="_blank" rel="noopener noreferrer">Download Mechanoid font from my Ko-fi Shop</a></p>
+<p>Please consider to support me on Ko-fi if you find this Mechanoid font useful. Your support helps me to create more stuff like this. Thank you.</p>
+<figure class="post__image post__image--center"><a href="https://ko-fi.com/monochromefrog"><img loading="lazy"  src="file:///Users/Frottle/Documents/Publii/sites/monochromefrog/input/media/files/ko-fi.png" data-is-external-image="true"  alt="" width="200" height="auto"></figure></a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Stale Bear</title>
         <author>
             <name>monochromefrog</name>
@@ -18,7 +45,7 @@
         <id>https://monochromefrog.github.io/stale-bear.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/28/stalebear01.jpg" alt="Stale fish eating bear" />
@@ -53,7 +80,7 @@
         <id>https://monochromefrog.github.io/the-roaring-grizzly.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/27/bearhug01-2.jpg" alt="Roaring grizzly bear head with flowers and tree branches background" />
@@ -88,7 +115,7 @@
         <id>https://monochromefrog.github.io/fang.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/26/fang01.jpg" alt="Fang, a vampire bat with heart artwork for sale" />
@@ -123,7 +150,7 @@
         <id>https://monochromefrog.github.io/bomber-chimp.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/25/bomberchimp01.jpg" alt="Grafitti bomber chimp artwork for sale" />
@@ -158,7 +185,7 @@
         <id>https://monochromefrog.github.io/the-chef-and-the-soup.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/24/solongandthanksforallthesoup01.jpg" alt="The chef and the soup artwork for sale" />
@@ -192,7 +219,7 @@
         <id>https://monochromefrog.github.io/lets-play.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/23/letsplay01.jpg" alt="Three eyed foo dog artwork for sale" />
@@ -226,7 +253,7 @@
         <id>https://monochromefrog.github.io/the-jester.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/22/jester01.jpg" alt="Jester ram artwork for sale" />
@@ -260,7 +287,7 @@
         <id>https://monochromefrog.github.io/hello-miss-lo-wang.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/21/hellomisslowang-01.jpg" alt="Hello Miss Lo Wang artwork for sale" />
@@ -294,7 +321,7 @@
         <id>https://monochromefrog.github.io/butterfly-skull.html</id>
             <category term="Artwork for Sale"/>
 
-        <updated>2021-04-03T08:33:48+07:00</updated>
+        <updated>2021-04-15T23:26:53+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://monochromefrog.github.io/media/posts/20/butterflyskull01.jpg" alt="Tsubame artwork for sale" />
@@ -311,40 +338,6 @@
 <ul>
 <li>Vector format</li>
 <li>3 colours excluding black</li>
-<li>Each colours laid in separate layers</li>
-<li>Colours can be changed</li>
-</ul>
-<h2>Ownership</h2>
-<p>It's yours to keep forever and free to use however you want once you've bought it.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tsubame</title>
-        <author>
-            <name>monochromefrog</name>
-        </author>
-        <link href="https://monochromefrog.github.io/tsubame.html"/>
-        <id>https://monochromefrog.github.io/tsubame.html</id>
-            <category term="Artwork for Sale"/>
-
-        <updated>2021-04-03T08:33:48+07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://monochromefrog.github.io/media/posts/19/tsubame01.jpg" alt="Tsubame artwork for sale" />
-                    Tsubame, cyborg geisha and barn swallow artwork for apparel brand or band&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://monochromefrog.github.io/media/posts/19/tsubame01.jpg" alt="Tsubame artwork for sale" />
-                <p>Tsubame, cyborg geisha and barn swallow artwork for apparel brand or band merchandise design. Send message through email or social media platform messaging system for inquiries.</p>
-<h2>Status</h2>
-<p>Available</p>
-<h2>Specification</h2>
-<ul>
-<li>Vector format</li>
-<li>5 colours excluding black</li>
 <li>Each colours laid in separate layers</li>
 <li>Colours can be changed</li>
 </ul>
