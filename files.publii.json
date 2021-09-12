@@ -22,7 +22,7 @@
     {
         "path": "/artwork-for-sale/index.html",
         "type": "file",
-        "md5": "dbc85cca06c5e2a0349ff07b74bef44e"
+        "md5": "6f73f7ea70f3501a49e59a788e820b79"
     },
     {
         "path": "artwork-for-sale/page",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/monochromefrog/index.html",
         "type": "file",
-        "md5": "df8d710606a0afca7a3f1f669eb07bd3"
+        "md5": "0c1fcf47db644da5adcfa4adcd9c67a9"
     },
     {
         "path": "authors/monochromefrog/page",
@@ -202,12 +202,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ab5eccb7e97a12e816666e991b78dafd"
+        "md5": "406c699a78cfc8408d1512e43b3b40d3"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c5a98a85631bceda3a1c1f76f9e1444d"
+        "md5": "e6649bb94866ad16a53984a21c920495"
     },
     {
         "path": "hawk-rawk.html",
@@ -222,7 +222,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f441fa127c1097340cc6a45ca7c6e0e2"
+        "md5": "a2dab2bf74fafde57beac91f79245cd7"
     },
     {
         "path": "kerberos.html",
@@ -1115,9 +1115,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/27/bearhug01-2.jpg",
+        "path": "/media/posts/27/bearhug01.jpg",
         "type": "file",
-        "md5": "569af52d5a8a7a1522a8674b3e039f08"
+        "md5": "993a194d03176fef90fd19adb617f1fd"
     },
     {
         "path": "media/posts/27/responsive",
@@ -1125,39 +1125,39 @@
         "md5": false
     },
     {
-        "path": "/media/posts/27/responsive/bearhug01-2-2xl.jpg",
+        "path": "/media/posts/27/responsive/bearhug01-2xl.jpg",
         "type": "file",
-        "md5": "3ac88bfd872c5afdeee37c5513207df9"
+        "md5": "c7074800c90bdedf7b6b5cfdc3e660d6"
     },
     {
-        "path": "/media/posts/27/responsive/bearhug01-2-lg.jpg",
+        "path": "/media/posts/27/responsive/bearhug01-lg.jpg",
         "type": "file",
-        "md5": "3ac88bfd872c5afdeee37c5513207df9"
+        "md5": "c7074800c90bdedf7b6b5cfdc3e660d6"
     },
     {
-        "path": "/media/posts/27/responsive/bearhug01-2-md.jpg",
+        "path": "/media/posts/27/responsive/bearhug01-md.jpg",
         "type": "file",
-        "md5": "0a854603d06bbecaa8386c6d69d582d9"
+        "md5": "aeb1c5e0316e8da1b24d4f63b97bf2ff"
     },
     {
-        "path": "/media/posts/27/responsive/bearhug01-2-sm.jpg",
+        "path": "/media/posts/27/responsive/bearhug01-sm.jpg",
         "type": "file",
-        "md5": "707ea1965bc521fe8ba02b95c672a867"
+        "md5": "500e2ae34860b5dff72349523f40aba8"
     },
     {
-        "path": "/media/posts/27/responsive/bearhug01-2-sm2.jpg",
+        "path": "/media/posts/27/responsive/bearhug01-sm2.jpg",
         "type": "file",
-        "md5": "378d452fef3a327d0fa4972d845f6892"
+        "md5": "93b4454275f78fb138a2eb872f4d13bc"
     },
     {
-        "path": "/media/posts/27/responsive/bearhug01-2-xl.jpg",
+        "path": "/media/posts/27/responsive/bearhug01-xl.jpg",
         "type": "file",
-        "md5": "3ac88bfd872c5afdeee37c5513207df9"
+        "md5": "c7074800c90bdedf7b6b5cfdc3e660d6"
     },
     {
-        "path": "/media/posts/27/responsive/bearhug01-2-xs.jpg",
+        "path": "/media/posts/27/responsive/bearhug01-xs.jpg",
         "type": "file",
-        "md5": "84aff976c0aea78d8433b216af645925"
+        "md5": "df1fe550b8dd7458b08066e3380f1241"
     },
     {
         "path": "media/posts/28",
@@ -1627,7 +1627,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "49f81c76281077da2975f804bca0da30"
+        "md5": "c254f955631c6ae42484c70a020403a1"
     },
     {
         "path": "sitemap.xsl",
@@ -1667,7 +1667,7 @@
     {
         "path": "the-roaring-grizzly.html",
         "type": "file",
-        "md5": "5e7d875ff0c98ce66f89f6c0ffee59a8"
+        "md5": "695fc4e16f1338fe26fdb8aad5ccf7bf"
     },
     {
         "path": "tiger-and-the-roses.html",
