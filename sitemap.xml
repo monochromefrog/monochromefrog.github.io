@@ -8,7 +8,7 @@
 <loc>https://monochromefrog.github.io/basesix-font.html</loc>
 <lastmod>2021-05-03T12:09:15+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/9/basesix01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\9/basesix01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -16,7 +16,7 @@
 <loc>https://monochromefrog.github.io/bomber-chimp.html</loc>
 <lastmod>2021-01-18T17:21:27+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/25/bomberchimp01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\25/bomberchimp01.jpg</image:loc>
 <image:title><![CDATA[Grafitti bomber chimp artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -24,7 +24,7 @@
 <loc>https://monochromefrog.github.io/butterfly-skull.html</loc>
 <lastmod>2021-01-05T21:55:08+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/20/butterflyskull01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\20/butterflyskull01.jpg</image:loc>
 <image:title><![CDATA[Tsubame artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -32,15 +32,23 @@
 <loc>https://monochromefrog.github.io/cyber-panda.html</loc>
 <lastmod>2021-01-05T21:55:32+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/16/cyberpanda01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\16/cyberpanda01.jpg</image:loc>
 <image:title><![CDATA[Cyber Panda artwork]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://monochromefrog.github.io/deep-space-anglerfish.html</loc>
+<lastmod>2022-01-26T13:47:00+07:00</lastmod>
+<image:image>
+<image:loc>https://monochromefrog.github.io/media\posts\31/deepspacefish01.jpg</image:loc>
+<image:title><![CDATA[Deep Space Fish]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://monochromefrog.github.io/fang.html</loc>
 <lastmod>2021-01-18T17:17:48+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/26/fang01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\26/fang01.jpg</image:loc>
 <image:title><![CDATA[Fang, a vampire bat with heart artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -48,7 +56,7 @@
 <loc>https://monochromefrog.github.io/hawk-rawk.html</loc>
 <lastmod>2021-01-05T21:55:49+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/15/hawkrawk01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\15/hawkrawk01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -56,7 +64,7 @@
 <loc>https://monochromefrog.github.io/hello-miss-lo-wang.html</loc>
 <lastmod>2021-01-05T21:54:56+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/21/hellomisslowang-01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\21/hellomisslowang-01.jpg</image:loc>
 <image:title><![CDATA[Hello Miss Lo Wang artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -64,7 +72,7 @@
 <loc>https://monochromefrog.github.io/kerberos.html</loc>
 <lastmod>2020-08-02T11:59:18+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/4/kerberos01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\4/kerberos01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -72,7 +80,7 @@
 <loc>https://monochromefrog.github.io/lets-play.html</loc>
 <lastmod>2021-01-05T21:54:25+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/23/letsplay01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\23/letsplay01.jpg</image:loc>
 <image:title><![CDATA[Three eyed foo dog artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -80,7 +88,7 @@
 <loc>https://monochromefrog.github.io/mechanoid-font.html</loc>
 <lastmod>2021-05-03T12:08:16+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/29/mechanoid01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\29/mechanoid01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -88,7 +96,7 @@
 <loc>https://monochromefrog.github.io/mohawk-oni.html</loc>
 <lastmod>2021-08-21T14:05:30+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/30/mohawkoni01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\30/mohawkoni01.jpg</image:loc>
 <image:title><![CDATA[Japanese Oni demon with mohawk hair]]></image:title>
 </image:image>
 </url>
@@ -96,11 +104,11 @@
 <loc>https://monochromefrog.github.io/nadie-es-el-mismo-album-cover.html</loc>
 <lastmod>2020-08-02T12:03:35+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/11/neem01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\11/neem01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/11/neem02.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\11/neem02.jpg</image:loc>
 <image:title><![CDATA[Automàtico - Nadie Es El Mismo album cover front and back.]]></image:title>
 </image:image>
 </url>
@@ -108,7 +116,7 @@
 <loc>https://monochromefrog.github.io/night-gazer.html</loc>
 <lastmod>2021-01-05T21:56:01+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/17/nightgazer01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\17/nightgazer01.jpg</image:loc>
 <image:title><![CDATA[Night gazer owl artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -116,7 +124,7 @@
 <loc>https://monochromefrog.github.io/owl-01-free-stock-vector-illustration.html</loc>
 <lastmod>2021-04-03T07:50:40+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/18/owl01-01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\18/owl01-01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -137,7 +145,7 @@
 <loc>https://monochromefrog.github.io/rainbows-on-demand-tour-poster.html</loc>
 <lastmod>2020-08-02T12:30:21+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/13/rod02.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\13/rod02.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -145,7 +153,7 @@
 <loc>https://monochromefrog.github.io/samurai-skull-free-stock-vector-illustration.html</loc>
 <lastmod>2021-04-03T07:55:16+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/5/samuraiskull01-01-2.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\5/samuraiskull01-01-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -153,7 +161,7 @@
 <loc>https://monochromefrog.github.io/stale-bear.html</loc>
 <lastmod>2021-03-25T12:45:35+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/28/stalebear01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\28/stalebear01.jpg</image:loc>
 <image:title><![CDATA[Stale fish eating bear]]></image:title>
 </image:image>
 </url>
@@ -161,7 +169,7 @@
 <loc>https://monochromefrog.github.io/the-chef-and-the-soup.html</loc>
 <lastmod>2021-01-05T21:54:15+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/24/solongandthanksforallthesoup01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\24/solongandthanksforallthesoup01.jpg</image:loc>
 <image:title><![CDATA[The chef and the soup artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -169,7 +177,7 @@
 <loc>https://monochromefrog.github.io/the-great-crazy-80-show-tour-poster.html</loc>
 <lastmod>2020-08-02T13:13:55+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/12/tgcet01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\12/tgcet01.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -177,7 +185,7 @@
 <loc>https://monochromefrog.github.io/the-jester.html</loc>
 <lastmod>2021-01-05T21:54:43+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/22/jester01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\22/jester01.jpg</image:loc>
 <image:title><![CDATA[Jester ram artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -185,7 +193,7 @@
 <loc>https://monochromefrog.github.io/the-roaring-grizzly.html</loc>
 <lastmod>2021-09-12T10:05:35+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/27/bearhug01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\27/bearhug01.jpg</image:loc>
 <image:title><![CDATA[Roaring grizzly bear head with flowers and tree branches background]]></image:title>
 </image:image>
 </url>
@@ -193,7 +201,7 @@
 <loc>https://monochromefrog.github.io/tiger-and-the-roses.html</loc>
 <lastmod>2021-01-05T21:53:38+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/6/tigerandroses01-3.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\6/tigerandroses01-3.jpg</image:loc>
 <image:title><![CDATA[Tiger and the roses artwork for sale]]></image:title>
 </image:image>
 </url>
@@ -201,7 +209,7 @@
 <loc>https://monochromefrog.github.io/transmitting-straight-from-the-buttnoggin-poster.html</loc>
 <lastmod>2020-08-02T13:11:13+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/14/tsftbn02.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\14/tsftbn02.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -209,7 +217,7 @@
 <loc>https://monochromefrog.github.io/tsubame.html</loc>
 <lastmod>2021-01-05T21:55:19+07:00</lastmod>
 <image:image>
-<image:loc>https://monochromefrog.github.io/media/posts/19/tsubame01.jpg</image:loc>
+<image:loc>https://monochromefrog.github.io/media\posts\19/tsubame01.jpg</image:loc>
 <image:title><![CDATA[Tsubame artwork for sale]]></image:title>
 </image:image>
 </url>

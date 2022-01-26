@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://monochromefrog.github.io/deep-space-anglerfish.html",
+            "url": "https://monochromefrog.github.io/deep-space-anglerfish.html",
+            "title": "Deep Space Anglerfish",
+            "summary": "An anglerfish in a deep space artwork suitable for apparel brand or&hellip;",
+            "content_html": "<p>An anglerfish in a deep space artwork suitable for apparel brand or band merchandise design such as T-shirts, posters, stickers, pins, album covers, etc.</p>\n<p>Send message through email or social media platform messaging system on contact page for inquiries and custom illustration works.</p>\n<h2>Status</h2>\n<p>Available</p>\n<h2>Specification</h2>\n<ul>\n<li>4200 x 6000 px at 300 dpi in raster Photoshop .psd format</li>\n<li>Each colours laid in separate layers</li>\n<li>Text and colours can be added or changed</li>\n</ul>\n<h2>Ownership</h2>\n<p>It's yours to keep forever and free to use however you want once you've bought it.</p>",
+            "image": "https://monochromefrog.github.io/media/posts/31/deepspacefish01.jpg",
+            "author": {
+                "name": "monochromefrog"
+            },
+            "tags": [
+                   "Artwork for Sale"
+            ],
+            "date_published": "2022-01-26T13:47:00+07:00",
+            "date_modified": "2022-01-26T13:47:00+07:00"
+        },
+        {
             "id": "https://monochromefrog.github.io/mohawk-oni.html",
             "url": "https://monochromefrog.github.io/mohawk-oni.html",
             "title": "Mohawk Oni",
@@ -153,22 +169,6 @@
             ],
             "date_published": "2020-09-16T21:18:35+07:00",
             "date_modified": "2021-01-05T21:54:43+07:00"
-        },
-        {
-            "id": "https://monochromefrog.github.io/hello-miss-lo-wang.html",
-            "url": "https://monochromefrog.github.io/hello-miss-lo-wang.html",
-            "title": "Hello Miss Lo Wang",
-            "summary": "Geisha ninja artwork for apparel brand or band merchandise design. Send message&hellip;",
-            "content_html": "<p>Geisha ninja artwork for apparel brand or band merchandise design. Send message through email or social media platform messaging system for inquiries.</p>\n<h2>Status</h2>\n<p>Available</p>\n<h2>Specification</h2>\n<ul>\n<li>Vector format</li>\n<li>4 colours excluding black</li>\n<li>Each colours laid in separate layers</li>\n<li>Colours can be changed</li>\n</ul>\n<h2>Ownership</h2>\n<p>It's yours to keep forever and free to use however you want once you've bought it.</p>",
-            "image": "https://monochromefrog.github.io/media/posts/21/hellomisslowang-01.jpg",
-            "author": {
-                "name": "monochromefrog"
-            },
-            "tags": [
-                   "Artwork for Sale"
-            ],
-            "date_published": "2020-09-07T01:40:04+07:00",
-            "date_modified": "2021-01-05T21:54:56+07:00"
         }
     ]
 }
